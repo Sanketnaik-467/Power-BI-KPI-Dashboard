@@ -5,6 +5,10 @@
 
 This project showcases an interactive **Finance KPI Dashboard** built using **Microsoft Power BI** to analyze and monitor key business and financial performance metrics. The dashboard provides actionable insights into sales, profitability, customer behavior, order performance, and year-over-year growth trends.
 
+ [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Power-BI-KPI-Dashboard/blob/42a3992b9541b6cb74555ad0fa7ffc1d5bd22a54/Power_BI_Dashboard.pbix)
+<br><br>
+
+
 ## Technologies Used
 
 * Microsoft Power BI
