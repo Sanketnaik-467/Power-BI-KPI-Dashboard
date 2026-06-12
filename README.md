@@ -8,14 +8,6 @@ This project showcases an interactive **Finance KPI Dashboard** built using **Mi
  [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Power-BI-KPI-Dashboard/blob/42a3992b9541b6cb74555ad0fa7ffc1d5bd22a54/Power_BI_Dashboard.pbix)
 <br><br>
 
-
-## Technologies Used
-
-* Microsoft Power BI
-* Power Query
-* DAX (Data Analysis Expressions)
-* Data Modeling
-
 ## Business Challenge
 
 One of the major challenges during this project was understanding and implementing complex **DAX formulas**, **KPI calculations**, and **Time Intelligence measures** required for accurate financial reporting and business analysis.
